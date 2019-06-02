@@ -1,5 +1,6 @@
-# Data-Analysis
-Data Analysis Using Python and a little R. 
+# Data-Analysis by WillKoerhsen
+
+Data Analysis Using Python and a little R  
 
 A place to share my code and reports for various data science projects.
 
